@@ -1,0 +1,52 @@
+header {
+    min-height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 30px;
+    font-weight: bold;
+    background: linear-gradient(135deg, #1ad1fe, #43c3c5);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 12px;
+    color: white;
+    transition: all 0.3s ease-in-out;
+}
+
+.logo span {
+    font-size: 26px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    text-shadow: 12px 12px 15px rgba(0, 0, 0, 0.3);
+}
+
+.theme-container {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.theme-container span {
+    font-size: 18px;
+    cursor: pointer;
+    transition: color 0.3s ease-in-out;
+    text-shadow: 11px 11px 14px rgba(0, 0, 0, 0.2);
+}
+
+.theme-container span:hover {
+    color: #ffeb3b;
+    text-shadow: 12px 12px 18px rgba(255, 235, 59, 0.6);
+}
+
+.theme-container .icon {
+    font-size: 24px;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out, color 0.3s ease-in-out;
+    text-shadow: 12px 12px 18px rgba(0, 0, 0, 0.9);
+}
+
+.theme-container .icon:hover {
+    color: #ffeb3b;
+    transform: rotate(20deg);
+    text-shadow: 13px 13px 110px rgba(255, 235, 59, 0.8);
+}
