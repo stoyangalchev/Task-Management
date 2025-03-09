@@ -11,7 +11,7 @@ Follow the steps below to get the app running locally:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/stoyangalchev/Task-Management.git
 ```
 
 ### 2. Install Dependencies 📦
