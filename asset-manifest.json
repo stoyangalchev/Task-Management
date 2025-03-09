@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stoyangalchev/Task-Management.git/static/css/main.0e62c281.css",
+    "main.js": "/stoyangalchev/Task-Management.git/static/js/main.5241edd8.js",
+    "static/js/787.ed758e7b.chunk.js": "/stoyangalchev/Task-Management.git/static/js/787.ed758e7b.chunk.js",
+    "index.html": "/stoyangalchev/Task-Management.git/index.html",
+    "main.0e62c281.css.map": "/stoyangalchev/Task-Management.git/static/css/main.0e62c281.css.map",
+    "main.5241edd8.js.map": "/stoyangalchev/Task-Management.git/static/js/main.5241edd8.js.map",
+    "787.ed758e7b.chunk.js.map": "/stoyangalchev/Task-Management.git/static/js/787.ed758e7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e62c281.css",
+    "static/js/main.5241edd8.js"
+  ]
+}
